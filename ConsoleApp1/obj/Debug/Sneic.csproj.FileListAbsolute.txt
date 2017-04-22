@@ -1,0 +1,6 @@
+c:\users\dan iorga\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\dan iorga\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\dan iorga\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\dan iorga\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Sneic.csprojResolveAssemblyReference.cache
+c:\users\dan iorga\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\dan iorga\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
