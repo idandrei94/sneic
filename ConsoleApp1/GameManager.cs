@@ -21,9 +21,9 @@ namespace ConsoleApp1
             Food food = null;
             Random rnd = new Random();
             int score = 0;
-            Grid grid = new Grid(100, 25, 0, 0);
+            Grid grid = new Grid(60, 10, 0, 0);
             grid.drawEdge();
-            Snake snake = new Snake(50, 12, grid);
+            Snake snake = new Snake(grid.X/2, grid.Y/2, grid);
             Task.Run(() => {
                 while (Running)
                 {
